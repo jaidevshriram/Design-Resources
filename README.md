@@ -8,3 +8,7 @@ A set of my favourite design recources.
 ## Illustrations 
 
 [undraw.co](https://undraw.co) : Free, Stock-ish Clean Illustrations, Multi-Color, Wide-Variety
+
+## Photography
+
+[TrashHand](http://www.trashhand.com/) : Architecture, Nature, Weird Angles, Professional
