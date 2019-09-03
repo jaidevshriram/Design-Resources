@@ -14,6 +14,10 @@ A set of my favourite design recources.
 
 [undraw.co](https://undraw.co) : Free, Stock-ish Clean Illustrations, Multi-Color, Wide-Variety
 
+## Gradient
+
+[Gradient Ideas](https://bashooka.com/inspiration/gradient-poster-designs/) : Cool Posters
+
 ## Photography
 
 [TrashHand](http://www.trashhand.com/) : Architecture, Nature, Weird Angles, Professional
