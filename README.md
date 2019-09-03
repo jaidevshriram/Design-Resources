@@ -4,6 +4,7 @@ A set of my favourite design recources.
 ## Overall
 
 [Flawless App](https://flawlessapp.io/designtools) : Amazing compilation of design resources for every single thing you can imagine. 
+[ls graphics](https://www.ls.graphics/) : Random Design Resources
 
 ## Wallpapers
 
