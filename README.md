@@ -6,6 +6,10 @@ A set of my favourite design recources.
 [Flawless App](https://flawlessapp.io/designtools) : Amazing compilation of design resources for every single thing you can imagine. 
 [ls graphics](https://www.ls.graphics/) : Random Design Resources
 
+## Digital Art
+These may not all be open license
+[Rune Fisker](https://www.runefisker.com/) : Bold, Vibrant and Moving. Illustrations that everyone should see.
+
 ## 3D Typography
 
 [Space Type Generator](https://spacetypegenerator.com) : A bunch of moving 3d text that can be customized
